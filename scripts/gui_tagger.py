@@ -82,6 +82,9 @@ class Application(tk.Frame):
         control_frame = ttk.Frame(left_frame)
         control_frame.grid(row=4, column=0, sticky="ew", pady=(10, 0))
         
+        self.back_button = ttk.Button(control_frame, text="Back", command=self.go_back)
+        self.back_button.pack(side="left", padx=(0, 10))
+
         self.suggest_button = ttk.Button(control_frame, text="Get Suggestions", command=self.get_suggestions)
         self.suggest_button.pack(side="left", padx=(0, 10))
 
@@ -138,6 +141,13 @@ class Application(tk.Frame):
 
         for var in self.tag_vars.values():
             var.set(False)
+
+        # Set checkboxes based on previously saved tags
+        if 'assigned_tags' in item:
+            for tag_name in item['assigned_tags']:
+                if tag_name in self.tag_vars:
+                    self.tag_vars[tag_name].set(True)
+
             
         self.update_progress()
 
@@ -147,12 +157,22 @@ class Application(tk.Frame):
 
     def get_suggestions(self):
         if not self.zotero_items or self.current_item_index >= len(self.zotero_items): return
+        
+        self.progress_label.config(text="Getting suggestions from Gemini...")
+        self.master.update_idletasks()
+
         item = self.zotero_items[self.current_item_index]
         abstract = item.get('abstract', '')
         suggestions = self.get_gemini_suggestions(abstract, self.tags_df)
+
         if suggestions:
             for tag_name, var in self.tag_vars.items():
                 var.set(tag_name in suggestions)
+            self.progress_label.config(text="Suggestions loaded.")
+        else:
+            self.progress_label.config(text="Failed to get suggestions.")
+        
+        self.master.after(2000, self.update_progress)
 
     def save_and_next(self):
         self.save_current_tags()
@@ -165,10 +185,17 @@ class Application(tk.Frame):
         self.current_item_index += 1
         self.load_item()
 
+    def go_back(self):
+        if self.current_item_index > 0:
+            self.current_item_index -= 1
+            self.load_item()
+
     def save_current_tags(self):
         if not self.zotero_items or self.current_item_index >= len(self.zotero_items): return
         
         assigned_tags = [tag_name for tag_name, var in self.tag_vars.items() if var.get()]
+        if 'reviewed' not in assigned_tags:
+            assigned_tags.append('reviewed')
         self.zotero_items[self.current_item_index]['assigned_tags'] = assigned_tags
         
         try:
@@ -178,7 +205,6 @@ class Application(tk.Frame):
             messagebox.showerror("Error", f"Failed to save tagged items: {e}")
 
     def get_gemini_suggestions(self, abstract, tags_df):
-        # (Implementation remains the same)
         config = configparser.ConfigParser()
         config.read('config.ini')
         try:
@@ -190,14 +216,23 @@ class Application(tk.Frame):
             messagebox.showerror("Error", "Gemini API key not found in 'config.ini'.")
             return None
 
-        genai.configure(api_key=gemini_api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        client = genai.Client(api_key=gemini_api_key)
+
+        generation_config = {
+            "response_mime_type": "application/json",
+        }
+
+        model = client.get_generative_model(
+            'gemini-1.5-flash',
+            generation_config=generation_config,
+        )
+
         tag_definitions = "\n".join([f"Tag: {row['Tag']}, Definition: {row['Definition']}" for index, row in tags_df.iterrows()])
-        prompt = f"Based on the following abstract, suggest relevant tags from the provided list of tags and their definitions. Return the suggested tags as a JSON object with a single key \"tags\".\n\nAbstract:\n{abstract}\n\nPossible Tags:\n{tag_definitions}"
+        prompt = f"Classify the following literature abstract by assigning relevant tags from the provided list.\n\nAbstract:\n{abstract}\n\nPossible Tags:\n{tag_definitions}"
+
         try:
             response = model.generate_content(prompt)
-            cleaned_response = response.text.replace('```json', '').replace('```', '').strip()
-            return json.loads(cleaned_response).get('tags', [])
+            return json.loads(response.text).get('tags', [])
         except Exception as e:
             messagebox.showerror("Gemini API Error", f"An error occurred: {e}")
             return None
@@ -207,10 +242,7 @@ class Application(tk.Frame):
         self.save_button.config(state="disabled")
         self.skip_button.config(state="disabled")
         self.suggest_button.config(state="disabled")
+        self.back_button.config(state="disabled")
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("Literature Tagger")
-    root.geometry("1200x800")
-    app = Application(master=root)
-    app.mainloop()
