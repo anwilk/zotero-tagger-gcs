@@ -3,7 +3,8 @@ from tkinter import ttk, messagebox
 import pandas as pd
 import json
 import configparser
-import google.genai as genai
+from google import genai
+from google.genai import types
 
 class CollapsiblePane(ttk.Frame):
     """A collapsible pane widget for tkinter."""
@@ -218,20 +219,17 @@ class Application(tk.Frame):
 
         client = genai.Client(api_key=gemini_api_key)
 
-        generation_config = {
-            "response_mime_type": "application/json",
-        }
-
-        model = client.get_generative_model(
-            'gemini-1.5-flash',
-            generation_config=generation_config,
-        )
-
         tag_definitions = "\n".join([f"Tag: {row['Tag']}, Definition: {row['Definition']}" for index, row in tags_df.iterrows()])
         prompt = f"Classify the following literature abstract by assigning relevant tags from the provided list.\n\nAbstract:\n{abstract}\n\nPossible Tags:\n{tag_definitions}"
 
         try:
-            response = model.generate_content(prompt)
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                )
+            )
             return json.loads(response.text).get('tags', [])
         except Exception as e:
             messagebox.showerror("Gemini API Error", f"An error occurred: {e}")
