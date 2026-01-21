@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
     Open a terminal and clone the project files to your local machine:
     ```bash
     git clone <repository_url>
-    cd lit-tagging
+    cd zotero-tagger-gcs
     ```
     (Replace `<repository_url>` with the actual URL of your repository.)
 
