@@ -1,0 +1,128 @@
+Tag,Category,Tagging Rule,Definition
+Land-based wind,Technology Type,All that apply,Wind facilities that are sited on land
+Offshore Wind,Technology Type,All that apply,Wind facilities that are sited in water or off the coast
+PV Solar,Technology Type,All that apply,Photovoltaic solar facilities
+CSP Solar,Technology Type,All that apply,Concentrated solar power facilities
+Geothermal,Technology Type,All that apply,Geothermal power plants
+Battery,Technology Type,All that apply,"Large scale battery storage, especially those paired with other renewable energy types"
+Transmission,Technology Type,All that apply,Transmission or powerline areas
+Tech-Describe,Technology Type,Optional,An optional tag that can be used to describe another power generation type not already covered
+New Field Data Collected,Data Collection,All that apply,"Studies that collect data on wildlife, vegetation, soil, or other environmental measures in the field, does not apply to satellite-derived data"
+Utilize Previously Collected Data,Data Collection,All that apply,"Studies that utilize existing data repositories on wildlife, vegetation, soil, or other environmental measures like eBird, iNaturalist, NABat, and others"
+No Field Data Used,Data Collection,All that apply,Studies that do not utilize field-collected data
+Data-describe,Data Collection,Optional,An optional tag that can be used to describe another type of data collection effort not already covered
+Northeast,FWS Region,All that apply,"United States Fish and Wildlife region that covers
+Delaware
+District of Columbia
+Maine
+Maryland
+Massachusetts
+New Hampshire
+New Jersey
+New York
+Pennsylvania
+Rhode Island
+Vermont
+Virginia
+West Virginia"
+Southeast,FWS Region,All that apply,"United States Fish and Wildlife Region that covers 
+Alabama
+Arkansas
+Florida
+Georgia
+Kentucky
+Louisiana
+Mississippi
+North Carolina
+South Carolina
+Tennessee
+Puerto Rico
+Virgin Islands"
+Midwest,FWS Region,All that apply,"United States Fish and Wildlife region that covers
+Illinois
+Indiana
+Iowa
+Michigan
+Minnesota
+Missouri
+Ohio
+Wisconsin"
+Mountain-Prairie,FWS Region,All that apply,"United States Fish and Wildlife region that covers
+Colorado
+Kansas
+Montana
+Nebraska
+North Dakota
+South Dakota
+Utah
+Wyoming"
+Southwest,FWS Region,All that apply,"United States Fish and Wildlife region that covers
+Arizona
+New Mexico
+Oklahoma
+Texas"
+Pacific,FWS Region,All that apply,"United States Fish and Wildlife region that covers
+American Samoa
+Guam
+Hawaii
+Idaho
+Northern Mariana Islands
+Oregon
+Washington"
+Pacific-Southwest,FWS Region,All that apply,"United States Fish and Wildlife region that covers
+California
+Nevada
+Oregon"
+Alaska,FWS Region,All that apply,"United States Fish ad Wildlife region that covers
+Alaska"
+North America,Continent,All that apply,
+South America,Continent,All that apply,
+Africa,Continent,All that apply,
+Europe,Continent,All that apply,
+Asia,Continent,All that apply,
+Australia and Pacific Islands,Continent,All that apply,
+Antarctica,Continent,All that apply,
+Birds,Taxa Group,All that apply,
+Reptiles,Taxa Group,All that apply,
+Amphibians,Taxa Group,All that apply,
+Terrestrial Mammals,Taxa Group,All that apply,
+Aquatic Mammals,Taxa Group,All that apply,
+Bats,Taxa Group,All that apply,
+Fish,Taxa Group,All that apply,
+Invertebrates,Taxa Group,All that apply,
+Soils & Biocrust,Taxa Group,All that apply,
+Microclimates,Taxa Group,All that apply,
+Vegetation,Taxa Group,All that apply,
+Migratory Tree Bats,Special Interest Taxa,All that apply,Includes tree roosting bats like the Hoary bat
+Prairie Grouse,Special Interest Taxa,All that apply,
+Eagles,Special Interest Taxa,All that apply,
+Migratory Big Game,Special Interest Taxa,All that apply,
+Meso-carnivores,Special Interest Taxa,All that apply,"Mid-sized carinvores and omnivores like coyotes, bobcats, raccoons, and oppossums"
+Pollinators,Special Interest Taxa,All that apply,Includes predominantly invertebrate pollinators like butterflies
+Whales,Special Interest Taxa,All that apply,
+Burrowing Owl,Special Interest Taxa,All that apply,
+Desert Tortoise,Special Interest Taxa,All that apply,
+Taxa-Describe,Special Interest Taxa,All that apply,
+Population-Level Interactions,Solar Interaction Summary,All that apply,Studies that examine the effects of solar energy on local wildlife populations
+Community-Level Interactions,Solar Interaction Summary,All that apply,Studies that examine the effects of solar energy on local wildlife community composition and dynamics
+Ecosystem-Level Interactions,Solar Interaction Summary,All that apply,Studies that examine the effects of solar energy on entire ecosystems
+Mitigation and On-site Management,Solar Interaction Summary,All that apply,"Studies that examine the effects of solar site operation, maintenance, vegetation management, construction pratices, fence designs, and other mitigation practices on wildlife"
+Human Threat Context,Wind Interaction Summary,All that apply,
+Collisions,Wind Interaction Summary,All that apply,
+Habitat Impacts,Wind Interaction Summary,All that apply,
+Siting,Wind Interaction Summary,All that apply,
+Minimization,Wind Interaction Summary,All that apply,
+Conservation Offsets,Wind Interaction Summary,All that apply,
+Review Paper,General Purpose,All that apply,
+REWI Product or Coauthor,General Purpose,All that apply,
+REWRF Funded,General Purpose,All that apply,
+DOE Funded,General Purpose,All that apply,
+Curtailment,Hot Topics,All that apply,
+Ecovoltaics,Hot Topics,All that apply,
+Fatality,Hot Topics,All that apply,
+Vegetation Establishment and Management,Hot Topics,All that apply,
+Fencing,Hot Topics,All that apply,
+Biodiversity,Hot Topics,All that apply,
+Lake Effect,Hot Topics,All that apply,
+Environmental Contaminants,Hot Topics,All that apply,
+Topic-Describe,Hot Topics,Optional,

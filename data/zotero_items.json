@@ -1,0 +1,785 @@
+[
+    {
+        "key": "JDSQVQPS",
+        "title": "Impact of Agrochemicals on Soil Microbiota and Management: A Review",
+        "abstract": "The World Health Organization (WHO) states that in developing nations, there are three million cases of agrochemical poisoning. The prolonged intensive and indiscriminate use of agrochemicals adversely affected the soil biodiversity, agricultural sustainability, and food safety, bringing in long-term harmful effects on nutritional security, human and animal health. Most of the agrochemicals negatively affect soil microbial functions and biochemical processes. The alteration in diversity and composition of the beneficial microbial community can be unfavorable to plant growth and development either by reducing nutrient availability or by increasing disease incidence. Currently, there is a need for qualitative, innovative, and demand-driven research in soil science, especially in developing countries for facilitating of high-quality eco-friendly research by creating a conducive and trustworthy work atmosphere, thereby rewarding productivity and merits. Hence, we reviewed (1) the impact of various agrochemicals on the soil microbial diversity and environment; (2) the importance of smallholder farmers for sustainable crop protection and enhancement solutions, and (3) management strategies that serve the scientific community, policymakers, and land managers in integrating soil enhancement and sustainability practices in smallholder farming households. The current review provides an improved understanding of agricultural soil management for food and nutritional security.",
+        "tags": []
+    },
+    {
+        "key": "5TQ4MHRQ",
+        "title": "Assessing population-level consequences of anthropogenic stressors for terrestrial wildlife",
+        "abstract": "Human activity influences wildlife. However, the ecological and conservation significances of these influences are difficult to predict and depend on their population-level consequences. This difficulty arises partly because of information gaps, and partly because the data on stressors are usually collected in a count-based manner (e.g., number of dead animals) that is difficult to translate into rate-based estimates important to infer population-level consequences (e.g., changes in mortality or population growth rates). However, ongoing methodological developments can provide information to make this transition. Here, we synthesize tools from multiple fields of study to propose an overarching, spatially explicit framework to assess population-level consequences of anthropogenic stressors on terrestrial wildlife. A key component of this process is using ecological information from affected animals to upscale from count-based field data on individuals to rate-based demographic inference. The five steps to this framework are (1) framing the problem to identify species, populations, and assessment parameters; (2) field-based measurement of the effect of the stressor on individuals; (3) characterizing the location and size of the populations of interest; (4) demographic modeling for those populations; and (5) assessing the significance of stressor-induced changes in demographic rates. The tools required for each of these steps are well developed, and some have been\u00a0used in conjunction with each other, but the entire group has not previously been unified together as we do in this framework. We detail these steps and then illustrate their application for two species affected by different anthropogenic stressors. In our examples, we use stable hydrogen isotope data to infer a catchment area describing the geographic origins of affected individuals, as the basis to estimate population size for that area. These examples reveal unexpectedly greater potential risks from stressors for the more common and widely distributed species. This work illustrates key strengths of the framework but also important areas for subsequent theoretical and technical development to make it still more broadly applicable.",
+        "tags": [
+            {
+                "tag": "Anthropogenic Stressors"
+            },
+            {
+                "tag": "Bats"
+            },
+            {
+                "tag": "Birds"
+            },
+            {
+                "tag": "CA"
+            },
+            {
+                "tag": "Data in Supplemental"
+            },
+            {
+                "tag": "Demography"
+            },
+            {
+                "tag": "Integrated Population Model"
+            },
+            {
+                "tag": "Peer Reviewed"
+            },
+            {
+                "tag": "Renewable Energy"
+            },
+            {
+                "tag": "anthropogenic stressors",
+                "type": 1
+            },
+            {
+                "tag": "bats",
+                "type": 1
+            },
+            {
+                "tag": "birds",
+                "type": 1
+            },
+            {
+                "tag": "data_na"
+            },
+            {
+                "tag": "datacol_f"
+            },
+            {
+                "tag": "demographic impacts",
+                "type": 1
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_gms"
+            },
+            {
+                "tag": "fac_powertower"
+            },
+            {
+                "tag": "geo_fws8"
+            },
+            {
+                "tag": "geo_us"
+            },
+            {
+                "tag": "integrated population model",
+                "type": 1
+            },
+            {
+                "tag": "renewable energy",
+                "type": 1
+            },
+            {
+                "tag": "sis_t"
+            },
+            {
+                "tag": "snrp_f"
+            },
+            {
+                "tag": "spp_otherbird"
+            },
+            {
+                "tag": "stable isotope analysis",
+                "type": 1
+            },
+            {
+                "tag": "subject_demography"
+            },
+            {
+                "tag": "subject_directmort"
+            },
+            {
+                "tag": "subject_ratecalc"
+            },
+            {
+                "tag": "tagged_ajw"
+            },
+            {
+                "tag": "tech_desktop"
+            },
+            {
+                "tag": "tech_isogen"
+            },
+            {
+                "tag": "tech_visob"
+            },
+            {
+                "tag": "wis_t"
+            }
+        ]
+    },
+    {
+        "key": "H39JGFTS",
+        "title": "An evaluation of bird and bat mortality at wind turbines in the Northeastern United States",
+        "abstract": "Wind energy offers substantial environmental benefits, but wind facilities can negatively impact wildlife, including birds and bats. Researchers and managers have made major efforts to chronicle bird and bat mortality associated with wind facilities, but few studies have examined the patterns and underlying mechanisms of spatial patterns of fatalities at wind facilities. Understanding the horizontal fall distance between a carcass and the nearest turbine pole is important in designing effective search protocols and estimating total mortality. We explored patterns in taxonomic composition and fall distance of bird and bat carcasses at wind facilities in the Northeastern United States using publicly available data and data submitted to the US Fish and Wildlife Service under scientific collecting and special purpose utility permits for collection and study of migratory birds. Forty-four wind facilities reported 2,039 bird fatalities spanning 128 species and 22 facilities reported 418 bat fatalities spanning five species. Relative to long-distance migratory birds, short-distance migrants were found farther from turbines. Body mass of birds and bats positively influenced fall distance. Turbine size positively influenced fall distance of birds and bats when analyzed collectively and of birds when analyzed separately from bats. This suggests that as turbines increase in size, a greater search radius will be necessary to detect carcasses. Bird and bat fall distance distributions were notably multimodal, but only birds exhibited a high peak near turbine bases, a novel finding we attribute to collisions with turbine poles in addition to blades. This phenomenon varied across bird species, with potential implications for the accuracy of mortality estimates. Although pole collisions for birds is intuitive, this phenomenon has not been formally recognized. This finding may warrant an updated view of turbines as a collision threat to birds because they are a tall structure, and not strictly as a function of their motion.",
+        "tags": [
+            {
+                "tag": "Animal migration",
+                "type": 1
+            },
+            {
+                "tag": "Autumn",
+                "type": 1
+            },
+            {
+                "tag": "Birds",
+                "type": 1
+            },
+            {
+                "tag": "Death rates",
+                "type": 1
+            },
+            {
+                "tag": "Open data",
+                "type": 1
+            },
+            {
+                "tag": "Rotors",
+                "type": 1
+            },
+            {
+                "tag": "Wildlife",
+                "type": 1
+            },
+            {
+                "tag": "Wind power",
+                "type": 1
+            },
+            {
+                "tag": "wis_t"
+            }
+        ]
+    },
+    {
+        "key": "NRKQWUWM",
+        "title": "Distributions of Eastern and Western Red Bats in Western North America",
+        "abstract": "The known distributions of eastern red bats and western red bats in western North America have changed greatly over the past 2 decades, resulting in inaccurate range maps and uncertainty regarding the presence or probable absence of these species within states and provinces. We obtained capture and specimen records from the western United States and Canada for 276 eastern red bats and for 863 western red bats. We documented the expansion of the range of eastern red bats in northwestern Canada and clarified the northern and eastern limits of western red bat distribution in the United States. We found that the eastern red bat and western red bat exhibit a mostly allopatric distribution, with western red bats mainly inhabiting warmer, drier forested ecoregions at lower latitudes than those inhabited by eastern red bats. A small zone of overlap between the species was identified only in far western Texas, although it is possible that sympatry may be more widespread due to errors on museum specimen labels and misidentification of captured red bats.",
+        "tags": []
+    },
+    {
+        "key": "WAS7E2HB",
+        "title": "Testing and Evaluation of \"SafeWind\" A Bird Protection System",
+        "abstract": "In Germany, the expansion of the wind energy in accordance with the species protection canonly push the goals of German Energy Transition. In the present scenario, technical solutions(camera and radar) does not have sufficient scientific database on assessment of reduction ofrisk of collision of endangered species in German wind parks. Therefore, wind industry facesoperational restrictions on existing wind turbines as well as reduced access to onshore windpotential area.In beginning of 2018, WestfalenWind GmbH and Lackmann Phymetric GmbH took the initiativeto test and evaluate SafeWind - a camera-based automated system by Biodiv-Wind SAS,France in their wind parks. At Lichtenau Hassel Wind Park, three SafeWind systems areinstalled at location (WEA 9, WEA 11 and WEA 13) and have been in operation sinceAugust 16, 2018. The SafeWind system works on principle of real time detection of flying objectwithin intrusion area and triggering of regulation control of wind turbine, when the target iswithin the threshold limit. The aim of the test and evaluation of the SafeWind system was tocreate the decisive scientific database for its acceptance as an adequate mean to reduce therisk of collision of bird species like \u2013 red kite and black stork.For uniformity in interpretation of the results, the evaluation protocol was adapted as perguideline published by KNE. In 2019, Dr. Karl Heinz Loske conducted the field study (betweenMarch and October) at Lichtenau Hassel Wind Park as an independent expert, Ph.D. Ecology,and submitted the report. The report from the expert is used as an input for the evaluation ofthe SafeWind system. Due to practical constraint on the field observation, only two windturbines, WEA 11 and WEA 13 are considered for the study. The limiting parameters for thedetection capacity (i.e. detection range) and regulation control (i.e. reaction range) weredetermined through the repeated Robird drone experiment. The dataset for the estimation ofspecies-specific acquisition rate and collision risk probability were generated by applying thelimiting parameters to the field observation data (LRF data) from Dr. Loske. In the dataset, itwas assumed to consider the data between the installation height of camera and tip of the rotorblade (12 o\u2019clock position) of respective wind turbines.The detection range and the reaction range around the wind turbine were evaluated as 270 mand 172 m for red kite, and 337 m and 215 m for black stork from the Robird experiment. Theacquisition rate is percentage of flying tracks detected by the SafeWind system out of all theflying tracks within detection range of respective species from the LRF data. At the rotor altitudeof the wind turbine within the detection range, the acquisition rate for red kite is maximum, 84%at WEA 11 and 93% at WEA 13. In case of black stork, it is 100% only with one wind turbine(WEA 11) but may not be meaningful due to less number of the observation points. Below theTesting and evaluation of SafeWind \u2013 a bird protection system at Hassel Wind Park 3rotor altitude of the wind turbine and within the detection range, the acquisition rate for red kiteis comparatively lower, 83% at WEA 11 and 76% at WEA 13. In general, the acquisition rateswere expected to reduce gradually outside the detection range. However, this reduction isneither systematic nor homogeneous and linear. For example, the acquisition rate for red kiteis surprisingly increasing with the distance in case of WEA 11 and reach up to 88% in thezone 2 (270 m \u2013 300 m). The hypothesis is that the other factors than distance, altitude andposition of bird may influence the acquisition rate. While investigating the non-acquisitions, itwas observed that the topography and kind of background (vegetation, other wind turbines,deep dark sky) around the wind turbine may influence the acquisition rate. The topography andthe background have a relation with the installation height of camera (In our case, theinstallation height was selected due to the turbine-specific constraint). The site-specificadjustment on the installation height of camera thus can improve the acquisition rate of thesystem.The collision risk probability is the measure of effectiveness of reaction of the SafeWind systemfrom the reaction range. A worst-case scenario, direct flights of each track of red kite at theiraverage speed from the reaction range distance towards the wind turbine rotor and theirinability to anticipate the moving object, were assumed for the calculation of the collision riskprobability. When the time taken to reach to the rotor is less than the time needed to bring therotor to the safe rotational speed (idle speed = 50 kmph of blade tip speed), respective tracksare declared, hypothetically, as a collision with the rotor. Considering the reaction rangeadopted for this experiment, the collision risk probability for red kite is determined as 9% atWEA 11 and 12% at WEA 13. These probabilities of risk of collisions appear highlyoverestimated. When the reduction factors like varying operational speeds of the wind turbine,biological avoidance behaviour of red kite can eliminate the overestimated risk of collision.Based on learning from the SafeWind recorded videos, the red kite has obvious anticipationbehaviour while passing through the rotor. For quantifying the anticipation behaviour, birdvehiclecollision studies for turkey vultures (DeVault, 2014) are referred which resulted inreduction of probabilities to 3% at WEA 11 and 8% at WEA 13 due to anticipation behaviourof birds of prey below 90 kmph speed of the moving object. Moreover, empirical data of BirdSentinel from Biodiv-Wind shows that collision events of red kite in France (n=7) and inGermany (n=1) detected by the SafeWind up to now were only recorded when blade tip speedwas above 130 kmph. Considering this, the collision risk probability in our case is 0%. Indeed,the collision of any bird species is reported neither during the study period nor from the daythe SafeWind system is in operation.To sum-up, the use of the SafeWind system at wind turbines, which has the maximumacquisition rates (84% at WEA 11 and 93% at WEA 13 in the critical risk of collision zone)within the detection range and the low theoretical collision risk probability (9% at WEA 11 and 12% at WEA 13) within the reaction range for red kite, shows the significant reduction in therisk of the collision. Despite the limited numbers of observations for black stork, the reductionin the risk of collision is also applicable. Such system can also reduce the risk of collision forother species like common buzzard, black kite and kestrel found around the study area. At last,the outcome of the evaluation will enable the authorities to decide on accepting the SafeWindsystem as an adequate mean to reduce the risk of collision of the impact sensitive bird speciesfrom the wind turbine.",
+        "tags": [
+            {
+                "tag": "Bats"
+            },
+            {
+                "tag": "Birds"
+            },
+            {
+                "tag": "Collision"
+            },
+            {
+                "tag": "Fixed Offshore Wind"
+            },
+            {
+                "tag": "Floating Offshore Wind"
+            },
+            {
+                "tag": "Land-Based Wind"
+            },
+            {
+                "tag": "Wind Energy"
+            }
+        ]
+    },
+    {
+        "key": "GJ72R59C",
+        "title": "Pronghorn Winter Resource Selection Before and After Wind Energy Development in South-Central Wyoming",
+        "abstract": "Few studies have evaluated the response of ungulate populations to wind energy development. Recent demand for wind-generated electricity coupled with a tendency for wind-energy facilities to be sited within suitable pronghorn (Antilocapra americana) winter range make this a critical issue for conservation of this icon of western North America. We evaluated pronghorn response to wind energy development at the winter home range scale, as well as within individual winter home ranges using data collected from 47 adult female pronghorn equipped with Global Positioning System transmitters. At both scales, we developed separate resource selection models for pronghorn before (winter 2010) and after (winters 2011 and 2012) development of the Dunlap Ranch wind energy facility in south-central Wyoming to evaluate the potential impacts of wind energy infrastructure on pronghorn winter resource selection. In general, pronghorn winter resource selection was correlated with greater sagebrush (Artemisia spp.) cover, lower snow depth, and lower slopes before and after wind energy development at both scales. At the larger scale, pronghorn selected home ranges closer to wind turbines during all winters. Within home ranges, pronghorn selected areas closer to future locations of wind turbines at Dunlap Ranch during 2010 before turbine erection. However, we found evidence that pronghorn avoided wind turbines in winters after development within their winter home ranges. This relationship was most evident during winter 2011, which coincided with the most severe winter of our study. Long-term replicated studies will be necessary to make inferences for pronghorn populations exposed to wind energy development in different environments and scales than we evaluated. Nonetheless, in the absence of additional information on how ungulates respond to wind energy development, our finding that pronghorn avoided wind turbines within their winter home ranges has important implications for future wind development projects, particularly in areas known to fulfill important seasonal requirements of pronghorn populations.",
+        "tags": [
+            {
+                "tag": "Wyoming",
+                "type": 1
+            },
+            {
+                "tag": "before and after response",
+                "type": 1
+            },
+            {
+                "tag": "energy development",
+                "type": 1
+            },
+            {
+                "tag": "ungulate winter range",
+                "type": 1
+            },
+            {
+                "tag": "wis_t"
+            }
+        ]
+    },
+    {
+        "key": "PNIAQU5Z",
+        "title": "Simulated solar panels create altered microhabitats in desert landforms",
+        "abstract": "Solar energy development is a signi\ufb01cant driver of land-use change worldwide, and desert ecosystems are particularly well suited to energy production because of their high insolation rates. Deserts are also characterized by uncertain rainfall, high species endemism, and distinct landforms that vary in geophysical properties. Weather and physical features that differ across landforms interact with shade and water runoff regimes imposed by solar panels, creating novel microhabitats that in\ufb02uence biotic communities. Endemic species may be particularly affected because they often have limited distributions, narrow climatic envelopes, or specialized life histories. We used experimental panels to simulate the effects of solar development on microhabitats and annual plant communities present on gravelly bajada and caliche pan habitat, two common habitat types in California's Mojave Desert. We evaluated soils and microclimatic conditions and measured community response under panels and in the open for seven years (2012\u20132018). We found that differences in site characteristics and weather affected the ecological impact of panels on the annual plant community. Panel shade tended to increase species richness on the more stressful caliche pan habitat, and this effect was strongest in dry years. Shade effects on diversity and abundance also tended to be positive or neutral on caliche pan habitat. On gravelly bajada habitat, panel shade did not signi\ufb01cantly affect richness or diversity and tended to decrease plant abundance. Panel runoff rarely affected richness or diversity on either habitat type, but effects on abundance tended to be negative\u2014suggesting that panel rain shadows were more important than runoff from low-volume rain events. These results demonstrate that the ecological consequences of solar development can vary over space and time, and suggest that a nuanced approach will be needed to predict impacts across desert landforms differing in physical characteristics.",
+        "tags": [
+            {
+                "tag": "CA"
+            },
+            {
+                "tag": "data_un"
+            },
+            {
+                "tag": "datacol_t"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_pvmodel"
+            },
+            {
+                "tag": "geo_fws8"
+            },
+            {
+                "tag": "sis_t"
+            },
+            {
+                "tag": "snrp_t"
+            },
+            {
+                "tag": "spp_fedte"
+            },
+            {
+                "tag": "spp_veg"
+            },
+            {
+                "tag": "spp_vegnative"
+            },
+            {
+                "tag": "subject_community"
+            },
+            {
+                "tag": "subject_microclimate"
+            },
+            {
+                "tag": "tagged_jre"
+            },
+            {
+                "tag": "tech_fixeda"
+            },
+            {
+                "tag": "tech_visob"
+            }
+        ]
+    },
+    {
+        "key": "3N27SUT5",
+        "title": "A summary of bird mortality at photovoltaic utility scale solar facilities in the Southwestern U.S.",
+        "abstract": "Recent trends in renewable energy development in the United States (U.S.) show that new installed capacity of utility-scale solar energy has exceeded 30% of total installed capacity of all sources per year since 2013. Photovoltaic solar energy provides benefits in that no emissions are produced; however, there are potential impacts from photovoltaic solar development on birds that include habitat loss and potential for collision mortality. Only 2 papers in the peer-reviewed literature present fatality information from fatality monitoring studies at a photovoltaic utility-scale solar energy facility; however, more data exists in unpublished reports. To provide a more comprehensive overview of bird mortality patterns, we synthesized results from fatality monitoring studies at 10 photovoltaic solar facilities across 13 site-years in California and Nevada. We found variability in the distribution of avian orders and species among and within Bird Conservation Regions, and found that water-obligate birds, which rely on water for take-off and landing, occurred at 90% (9/10) of site-years in the Sonoran and Mojave Deserts Bird Conservation Region. We found that a cause of mortality could not be determined for approximately 61% of intact carcasses, and that approximately 54% of all carcasses were feather spots, introducing uncertainty into the interpretation of the fatality estimates. The average annual fatality estimate we calculated for photovoltaic solar (high-end estimate of 2.49 birds per megawatt per year) is lower than that reported by another study (9.9 birds per megawatt per year) that included one photovoltaic facility. Our results provide a summary of fatalities in bird conservation regions where the facilities are located, but expanding our conclusions to new regions is limited by the location of facilities with fatality monitoring data.",
+        "tags": [
+            {
+                "tag": "CA"
+            },
+            {
+                "tag": "Data in Supplemental"
+            },
+            {
+                "tag": "Impact Summary"
+            },
+            {
+                "tag": "NV"
+            },
+            {
+                "tag": "Peer Reviewed"
+            },
+            {
+                "tag": "Solar NRP"
+            },
+            {
+                "tag": "data_un"
+            },
+            {
+                "tag": "datacol_t"
+            },
+            {
+                "tag": "desc_weg4a"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_1axispv"
+            },
+            {
+                "tag": "fac_fixedpv"
+            },
+            {
+                "tag": "fac_gms"
+            },
+            {
+                "tag": "geo_fws8"
+            },
+            {
+                "tag": "geo_us"
+            },
+            {
+                "tag": "loc_Blythe Mesa Solar II"
+            },
+            {
+                "tag": "loc_Blythe Solar 110"
+            },
+            {
+                "tag": "loc_Blythe_Blythe Solar II"
+            },
+            {
+                "tag": "loc_Blythe_Blythe Solar III"
+            },
+            {
+                "tag": "loc_Blythe_Blythe Solar IV Solar"
+            },
+            {
+                "tag": "loc_California Valley Solar Ranch"
+            },
+            {
+                "tag": "loc_Centinela Solar Energy"
+            },
+            {
+                "tag": "loc_Desert Sunlight 250, LLC"
+            },
+            {
+                "tag": "loc_Desert Sunlight 300, LLC"
+            },
+            {
+                "tag": "loc_Longboat Solar, LLC"
+            },
+            {
+                "tag": "loc_Luning Energy"
+            },
+            {
+                "tag": "loc_McCoy Solar Energy Project"
+            },
+            {
+                "tag": "loc_Seville 1"
+            },
+            {
+                "tag": "loc_Seville 2"
+            },
+            {
+                "tag": "loc_Silver State Solar Power South"
+            },
+            {
+                "tag": "loc_Topaz Solar Farm"
+            },
+            {
+                "tag": "sis_t"
+            },
+            {
+                "tag": "snrp_t"
+            },
+            {
+                "tag": "spp_otherbird"
+            },
+            {
+                "tag": "spp_prairie"
+            },
+            {
+                "tag": "spp_raptor"
+            },
+            {
+                "tag": "spp_waterfowl"
+            },
+            {
+                "tag": "subject_directmort"
+            },
+            {
+                "tag": "subject_ratecalc"
+            },
+            {
+                "tag": "tagged_jre"
+            },
+            {
+                "tag": "tech_distsamp"
+            }
+        ]
+    },
+    {
+        "key": "QJN3TDKS",
+        "title": "Golden Eagle breeding response to utility-scale solar development and prolonged drought in California",
+        "abstract": "Each year from 2012\u20132016, we conducted helicopter surveys to monitor the distribution, success, and productivity of Golden Eagles (Aquila chrysaetos) breeding within 16 km of California Valley Solar Ranch (CVSR) in San Luis Obispo County, California. This 250-megawatt photovoltaic solar plant was built over 2 yr on 642 ha of disturbed grassland and desert scrub habitat on Carrizo Plain, and was operational in October 2013. Beginning in 2012 coincident with initial CVSR development, the study area and region experienced a severe drought that persisted through the end of the 2016 breeding season. During the study, we detected and monitored 19 variably occupied Golden Eagle breeding territories. We confirmed a similar number of occupied territories in 2012 (15) and 2016 (16), but our ability to reliably confirm pairs declined during the drought and shifting territory dynamics occurred in several areas. Between 2012 and 2015, the proportion of pairs that laid eggs (breeding rate) and fledgling production per occupied territory (productivity) declined by 93\u201395% (13 pairs laid eggs in 2012; only 1 pair did so in 2015). In 2016, the breeding rate increased sharply again to 63% of occupied territories (87% in 2012) following the return of average rainfall during the preceding winter, but the proportion of pairs that fledged young and productivity rebounded to notably lesser degrees. The eagle breeding rate and productivity trends were strongly correlated with current-year measures of primary plant productivity and rainfall totals from the previous water-year (June\u2013July). Breeding performance metrics for five pairs with territories situated on the periphery of Carrizo Plain and 13 pairs located elsewhere in the study area away from possible development disturbance did not differ statistically. This suggested that CVSR development and initial operation did not adversely affect eagle breeding performance during the study; however, we cannot draw definitive conclusions from this 5-yr study about how CVSR development might have influenced the local eagle breeding population. Instead, we concluded that a severe 5-yr drought dramatically reduced eagle breeding activity in the study area (and region) and confounded our effort to evaluate the effects of the solar development.",
+        "tags": [
+            {
+                "tag": "CA"
+            },
+            {
+                "tag": "data_un"
+            },
+            {
+                "tag": "datacol_t"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_1axispv"
+            },
+            {
+                "tag": "fac_gms"
+            },
+            {
+                "tag": "geo_fws8"
+            },
+            {
+                "tag": "geo_us"
+            },
+            {
+                "tag": "loc_California Valley Solar Ranch"
+            },
+            {
+                "tag": "relevance_high"
+            },
+            {
+                "tag": "sis_f"
+            },
+            {
+                "tag": "snrp_f"
+            },
+            {
+                "tag": "spp_raptor"
+            },
+            {
+                "tag": "spp_statete"
+            },
+            {
+                "tag": "subject_demography"
+            },
+            {
+                "tag": "subject_habsuit"
+            },
+            {
+                "tag": "tech_visob"
+            }
+        ]
+    },
+    {
+        "key": "NPU63RZK",
+        "title": "Using movement to inform conservation corridor design for Mojave Desert tortoise",
+        "abstract": "Background: Preserving corridors for movement and gene flow among populations can assist in the recovery of threatened and endangered species. As human activity continues to fragment habitats, characterizing natural corridors is important in establishing and maintaining connectivity corridors within the anthropogenic development matrix. The Mojave desert tortoise (Gopherus agassizii) is a threatened species occupying a variety of habitats in the Mojave and Colorado Deserts. Desert tortoises have been referred to as corridor-dwellers, and understanding how they move within suitable habitat can be crucial to defining corridors that will sustain sufficient gene flow to maintain connections among populations amidst the increases in human development. Methods: To elucidate how tortoises traverse available habitat and interact with potentially inhospitable terrain and human infrastructure, we used GPS dataloggers to document fine-scale movement of individuals and estimate home ranges at ten study sites along the California/Nevada border. Our sites encompass a variety of habitats, including mountain passes that serve as important natural corridors connecting neighboring valleys, and are impacted by a variety of linear anthropogenic features. We used path selection functions to quantify tortoise movements and develop resistance surfaces based on landscape characteristics including natural features, anthropogenic alterations, and estimated home ranges with autocorrelated kernel density methods. Using the best supported path selection models and estimated home ranges, we determined characteristics of known natural corridors and compared them to mitigation corridors (remnant habitat patches) that have been integrated into land management decisions in the Ivanpah Valley. Results: Tortoises avoided areas of high slope and low perennial vegetation cover, avoided moving near low-density roads, and traveled along linear barriers (fences and flood control berms). Conclusions: We found that mitigation corridors designated between solar facilities should be wide enough to retain home ranges and maintain function. Differences in home range size and movement resistance between our two natural mountain pass corridors align with differences in genetic connectivity, suggesting that not all natural corridors provide the same functionality. Furthermore, creation of mitigation corridors with fences may have unintended consequences and may function differently than natural corridors. Understanding characteristics of corridors with different functionality will help future managers ensure that connectivity is maintained among Mojave desert tortoise populations.\nMethods: To elucidate how tortoises traverse available habitat and interact with potentially inhospitable terrain and\nhuman infrastructure, we used GPS dataloggers to document fine-scale movement of individuals and estimate\nhome ranges at ten study sites along the California/Nevada border. Our sites encompass a variety of habitats,\nincluding mountain passes that serve as important natural corridors connecting neighboring valleys, and are\nimpacted by a variety of linear anthropogenic features. We used path selection functions to quantify tortoise\nmovements and develop resistance surfaces based on landscape characteristics including natural features,\nanthropogenic alterations, and estimated home ranges with autocorrelated kernel density methods. Using the best\nsupported path selection models and estimated home ranges, we determined characteristics of known natural\ncorridors and compared them to mitigation corridors (remnant habitat patches) that have been integrated into\nland management decisions in the Ivanpah Valley.\nResults: Tortoises avoided areas of high slope and low perennial vegetation cover, avoided moving near lowdensity\nroads, and traveled along linear barriers (fences and flood control berms).",
+        "tags": [
+            {
+                "tag": "Connectivity",
+                "type": 1
+            },
+            {
+                "tag": "Data in article"
+            },
+            {
+                "tag": "Double Check"
+            },
+            {
+                "tag": "Home range",
+                "type": 1
+            },
+            {
+                "tag": "Impact Summary"
+            },
+            {
+                "tag": "Path-selection",
+                "type": 1
+            },
+            {
+                "tag": "Peer Reviewed"
+            },
+            {
+                "tag": "Utility-scale Solar"
+            },
+            {
+                "tag": "data_req"
+            },
+            {
+                "tag": "datacol_t"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_gms"
+            },
+            {
+                "tag": "loc_Ivanpah 1"
+            },
+            {
+                "tag": "loc_Ivanpah 2"
+            },
+            {
+                "tag": "loc_Ivanpah 3"
+            },
+            {
+                "tag": "loc_Silver State Solar Power North"
+            },
+            {
+                "tag": "loc_Silver State Solar Power South"
+            },
+            {
+                "tag": "loc_Stateline Solar"
+            },
+            {
+                "tag": "sis_t"
+            },
+            {
+                "tag": "snrp_f"
+            },
+            {
+                "tag": "spp_fedte"
+            },
+            {
+                "tag": "spp_herps"
+            },
+            {
+                "tag": "spp_statete"
+            },
+            {
+                "tag": "spp_tortoise"
+            },
+            {
+                "tag": "subject_habsuit"
+            },
+            {
+                "tag": "subject_mvmt"
+            },
+            {
+                "tag": "subject_transloc"
+            },
+            {
+                "tag": "tagged_ajw"
+            },
+            {
+                "tag": "tech_desktop"
+            },
+            {
+                "tag": "tech_rs"
+            },
+            {
+                "tag": "tech_satimg"
+            },
+            {
+                "tag": "tech_sim"
+            },
+            {
+                "tag": "tech_telem"
+            }
+        ]
+    },
+    {
+        "key": "8Z7DBAM8",
+        "title": "Simulated photovoltaic solar panels alter the seed bank survival of two desert annual plant species",
+        "abstract": "Seed bank survival underpins plant population persistence but studies on seed bank trait-environment interactions are few. Changes in environmental conditions relevant to seed banks occur in desert ecosystems owing to solar energy development. We developed a conceptual model of seed bank survival to complement methodologies using in-situ seed bank packets. Using this framework, we quantified the seed bank survival of two closely related annual desert plant species, one rare (Eriophyllum mohavense) and one common (Eriophyllum wallacei), and the seed bank\u2013environment interactions of these two species in the Mojave Desert within a system that emulates microhabitat variation associated with solar energy development. We tracked 4860 seeds buried across 540 seed packets and found, averaged across both species, that seed bank survival was 21% and 6% for the first and second growing seasons, respectively. After two growing seasons, the rare annual had a significantly greater seed bank survival (10%) than the common annual (2%). Seed bank survival across both species was significantly greater in shade (10%) microhabitats compared to runoff (5%) and control microhabitats (3%). Our study proffers insight into this early life-stage across rare and common congeners and their environmental interactions using a novel conceptual framework for seed bank survival.</p>",
+        "tags": [
+            {
+                "tag": "CA"
+            },
+            {
+                "tag": "Data in Supplemental"
+            },
+            {
+                "tag": "Peer Reviewed"
+            },
+            {
+                "tag": "data_un"
+            },
+            {
+                "tag": "datacol_t"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_pvmodel"
+            },
+            {
+                "tag": "geo_fws8"
+            },
+            {
+                "tag": "geo_us"
+            },
+            {
+                "tag": "sis_t"
+            },
+            {
+                "tag": "snrp_t"
+            },
+            {
+                "tag": "spp_statete"
+            },
+            {
+                "tag": "spp_veg"
+            },
+            {
+                "tag": "spp_vegnative"
+            },
+            {
+                "tag": "subject_demography"
+            },
+            {
+                "tag": "subject_habsuit"
+            },
+            {
+                "tag": "tagged_ajw"
+            },
+            {
+                "tag": "tech_visob"
+            }
+        ]
+    },
+    {
+        "key": "2V4GX77N",
+        "title": "Bat Activity Rates do not Predict Bat Fatality Rates at Wind Energy Facilities",
+        "abstract": "Bats are found as fatalities at most wind energy facilities around the world, creating a challenge for wind developers to predict risk to bats in an area before building a new facility. Bat echolocation activity surveys are the standard method for assessing risk, but their effectiveness has not been demonstrated. Sites with relatively low pre-construction bat activity rates are predicted to yield relatively low post-construction fatality rates (i.e., low risk), and vice-versa. To test this hypothesis, we ran simple linear regressions on bat activity rates and fatality rates from 49 paired pre- and post-construction studies across the United States and Canada. Bat activity rates did not predict bat fatality rates at wind energy facilities by detector height, by call frequency category of bats, or by season (P > 0.10). One possible explanation for the lack of a predictive relationship is that bat activity patterns may change between the pre- and post-construction periods if bats are attracted to turbines. Indeed, we found support that bat activity rates increased across call frequency category and season at four wind facilities that had measured bat activity rates before (0 = 1.89 bat passes/detector-night) and after turbines were built (0 = 4.84 bat passes/detector-night). However, simple linear regressions of postconstruction activity rates and fatality rates from 25 studies found no correlation between activity and fatality rates collected concurrently by detector height (ground, raised, nacelle) or by call frequency category (P > 0.05). We conclude that the current preconstruction survey methods of collecting bat activity rates at proposed wind energy facilities do not provide reliable information on how many bat fatalities there may be once the facility is built, and advocate exploring other methods for assessing risk to bats prior to wind development.",
+        "tags": [
+            {
+                "tag": "wis_t"
+            }
+        ]
+    },
+    {
+        "key": "J9JVXCIS",
+        "title": "AWWI Technical Report: 2nd Edition: Summary of Bat Fatality Monitoring Data Contained in AWWIC",
+        "abstract": "Bats collide with wind turbines resulting in fatalities, and much has been learned about the pattern and magnitude of these fatalities in the U.S. and Canada (Kunz et al. 2007, Arnett et al. 2008, Arnett and Baerwald 2013, Barclay et al. 2017). To date, cumulative assessments of bat collision fatalities at wind energy facilities have relied almost entirely on data gleaned from publicly available studies (e.g., Arnett and Baerwald 2013).\nIn 2018, AWWI released the first Bat Technical Report summarizing data contained in the American Wind Wildlife Information Center (AWWIC: pronounced \u201cA-wick\u201d; view online: https://awwi.org/wpcontent/uploads/2019/02/AWWI-Bat-Technical-Report_07_25_18_FINAL.pdf). This 2nd edition updates those data summaries to include 109 new studies at 81 projects across the U.S., thus providing windwildlife stakeholders with the most up-to-date picture of bat fatality data at wind energy facilities. As new data continue to be added, AWWI will continue to update this report.\nThe goal of these reports is to provide the most up-to-date understanding of the variability in species composition, timing, and magnitude of bat collisions to support the development of hypotheses that can be tested with additional analysis (e.g. Peters et al. 2020). When interpreting the data summaries, it is important to note that these data are either publicly available or voluntarily shared with AWWI by participating wind energy companies and do not represent a comprehensive or randomized monitoring dataset. Therefore, conclusions or extrapolations made from these data may change with additional data, and we advise accounting for differences in study protocols before further analysis.\nThese data summaries represent initial steps to evaluate AWWIC\u2019s ability to contribute to the goal of addressing the impacts of wind energy on bats in what we hope will be a positive-feedback loop: as the value of the database becomes apparent, more data will be contributed further increasing the value of the database.",
+        "tags": [
+            {
+                "tag": "wis_t"
+            }
+        ]
+    },
+    {
+        "key": "UTZK7Q9W",
+        "title": "Bioreplicated coatings for photovoltaic solar panels nearly eliminate light pollution that harms polarotactic insects",
+        "abstract": "Many insect species rely on the polarization properties of object-reflected light for vital tasks like water or host detection. Unfortunately, typical glass-encapsulated photovoltaic modules, which are expected to cover increasingly large surfaces in the coming years, inadvertently attract various species of water-seeking aquatic insects by the horizontally polarized light they reflect. Such polarized light pollution can be extremely harmful to the entomofauna if polarotactic aquatic insects are trapped by this attractive light signal and perish before reproduction, or if they lay their eggs in unsuitable locations. Textured photovoltaic cover layers are usually engineered to maximize sunlight-harvesting, without taking into consideration their impact on polarized light pollution. The goal of the present study is therefore to experimentally and computationally assess the influence of the cover layer topography on polarized light pollution. By conducting field experiments with polarotactic horseflies (Diptera: Tabanidae) and a mayfly species (Ephemeroptera: Ephemera danica), we demonstrate that bioreplicated cover layers (here obtained by directly copying the surface microtexture of rose petals) were almost unattractive to these species, which is indicative of reduced polarized light pollution. Relative to a planar cover layer, we find that, for the examined aquatic species, the bioreplicated texture can greatly reduce the numbers of landings. This observation is further analyzed and explained by means of imaging polarimetry and ray-tracing simulations. The results pave the way to novel photovoltaic cover layers, the interface of which can be designed to improve sunlight conversion efficiency while minimizing their detrimental influence on the ecology and conservation of polarotactic aquatic insects. </p>",
+        "tags": [
+            {
+                "tag": "Data in Supplemental"
+            },
+            {
+                "tag": "Peer Reviewed"
+            },
+            {
+                "tag": "data_supp"
+            },
+            {
+                "tag": "datacol_t"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_pvmodel"
+            },
+            {
+                "tag": "geo_eu"
+            },
+            {
+                "tag": "geo_na"
+            },
+            {
+                "tag": "sis_f"
+            },
+            {
+                "tag": "snrp_f"
+            },
+            {
+                "tag": "spp_terrinsect"
+            },
+            {
+                "tag": "subject_behave"
+            },
+            {
+                "tag": "tagged_jre"
+            },
+            {
+                "tag": "tech_visob"
+            }
+        ]
+    },
+    {
+        "key": "X9VFZPEW",
+        "title": "An investigation into the potential for wind turbines to cause barotrauma in bats",
+        "abstract": "The high rates of bat mortality caused by operating wind turbines is a concern for wind energy and wildlife stakeholders. One theory that explains the mortality is that bats are not only killed by impact trauma, but also by barotrauma that results from exposure to the pressure variations caused by rotating turbine blades. To date, no published research has calculated the pressure changes that bats may be exposed to when flying near wind turbines and then used these data to estimate the likelihood that turbines cause barotrauma in bats. To address this shortcoming, we performed computational fluid dynamics simulations of a wind turbine and analytical calculations of blade-tip vortices to estimate the characteristics of the sudden pressure changes bats may experience when flying near a utility-scale wind turbine. Because there are no data available that characterize the pressure changes that cause barotrauma in bats, we compared our results to changes in pressure levels that cause barotrauma and mortality in other mammals of similar size. This comparison shows that the magnitude of the low-pressures bats experience when flying near wind turbines is approximately 8 times smaller than the pressure that causes mortality in rats, the smallest mammal for which data are available. The magnitude of the high-pressures that bats may experience are approximately 80 times smaller than the exposure level that causes 50% mortality in mice, which have a body mass similar to several bat species that are killed by wind turbines. Further, our results show that for a bat to experience the largest possible magnitude of low- and high-pressures, they must take very specific and improbable flight paths that skim the surface of the blades. Even a small change in the flight path results in the bat being hit by the blade or experiencing a much smaller pressure change. Accordingly, if bats have a physiological response to rapid low- and high-pressure exposure that is similar to other mammals, we conclude that it is unlikely that barotrauma is responsible for a significant number of turbine-related bat fatalities, and that impact trauma is the likely cause of the majority of wind-turbine-related bat fatalities.",
+        "tags": [
+            {
+                "tag": "wis_t"
+            }
+        ]
+    },
+    {
+        "key": "CBF8VHQV",
+        "title": "Does city or state make a difference? The effects of policy framing on public attitude toward a solar energy program",
+        "abstract": "Replacing fossil fuel with solar photovoltaic (PV) technology is critical to the transition to renewable energy and thus a key feature of the contentious and often confusing policy debates surrounding climate change. Governments can frame such environmental issues in various ways, but consensus is lacking on whether economic or environmental benefits most effectively encourage pro-environmental attitudes and behaviors, such as supporting PV technology. In this study, we introduce a moderator\u2014psychological distance between citizens and policy outcomes\u2014to elaborate this relation. Based on the federalism literature, we suggest that different levels of government, as the policy implementers, represent a sense of distance. The construal level theory (CLT) is adopted, and we hypothesize that the congruency between psychological distance and the construal level of policy outcomes will increase policy support and willingness to pay for solar PV installation. The results of survey experiments on Amazon Mechanical Turk (MTurk) offer partial support for our theoretical expectations and add new insights. Practical and theoretical implications are discussed.",
+        "tags": []
+    },
+    {
+        "key": "TXQW76M8",
+        "title": "Comprehensive evaluation of photovoltaic solar plants vs. natural ecosystems in green conflict situations",
+        "abstract": "This study aims to develop a comprehensive method for evaluating the environmental cost/benefits of photovoltaic (PV) solar plant installation versus conserving natural ecosystems. First, the positive and negative impacts of installing PV solar plants in regions with natural ecosystems are reviewed. For focus and quantification, climate change mitigation and economic benefit were considered as benefits, and the loss of carbon sinks and biodiversity as well as disaster risk were considered as negatives. These items were also integrated as external costs using a life-cycle assessment method, and a ratio of positive versus negative impacts (P/N ratio) was developed, as part of our evaluation. The method was applied to a case study in Hyogo Prefecture, Japan, where 361 large PV solar plants have been installed in areas that previously supported natural ecosystems. Prior to the PV installation, 25.5% of the plants were cleared from the natural ecosystem. Consequently, the annualized benefits (costs) for these Hyogo plants were estimated to be 101.16 (73.88) million USD, which yielded a P/N ratio of 1.37, indicating that their benefits outweighed their costs. An economic benefit was found to be one of the parameters that significantly influenced the P/N ratio.",
+        "tags": [
+            {
+                "tag": "data_na"
+            },
+            {
+                "tag": "datacol_f"
+            },
+            {
+                "tag": "doc_ja"
+            },
+            {
+                "tag": "fac_gms"
+            },
+            {
+                "tag": "geo_asia"
+            },
+            {
+                "tag": "relevance_high"
+            },
+            {
+                "tag": "sis_t"
+            },
+            {
+                "tag": "snrp_f"
+            },
+            {
+                "tag": "spp_abiotic"
+            },
+            {
+                "tag": "subject_climate"
+            },
+            {
+                "tag": "subject_ecoservice"
+            },
+            {
+                "tag": "subject_humandim"
+            },
+            {
+                "tag": "subject_luchange"
+            },
+            {
+                "tag": "subject_siting"
+            },
+            {
+                "tag": "tagged_ajw"
+            },
+            {
+                "tag": "tech_desktop"
+            },
+            {
+                "tag": "tech_satimg"
+            },
+            {
+                "tag": "tech_theoretical"
+            }
+        ]
+    }
+]
