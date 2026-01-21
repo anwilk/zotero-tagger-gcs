@@ -1,5 +1,5 @@
 import tkinter as tk
-import gui_tagger
+from gui_tagger import Application
 
 def main():
     """
