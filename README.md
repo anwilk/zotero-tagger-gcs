@@ -2,6 +2,10 @@
 
 This project provides a graphical user interface (GUI) to help assign metadata tags to literature abstracts. It uses the Zotero API to fetch abstracts and the Google Gemini API to provide AI-powered tagging suggestions, which can then be reviewed and confirmed by the user.
 
+## Further Development
+If developing with gemini-cli or another coding agent, please provide instruction template from: https://raw.githubusercontent.com/googleapis/python-genai/refs/heads/main/codegen_instructions.md
+
+
 ## Running the Application
 
 Below are the step-by-step instructions for running the application on both a local device and Google Cloud Shell.

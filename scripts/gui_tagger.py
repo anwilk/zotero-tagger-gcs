@@ -5,6 +5,12 @@ import json
 import configparser
 from google import genai
 from google.genai import types
+from pydantic import BaseModel
+from typing import List
+
+class TagSuggestions(BaseModel):
+    """A Pydantic model to structure the tag suggestions from the Gemini API."""
+    tags: List[str]
 
 class CollapsiblePane(ttk.Frame):
     """A collapsible pane widget for tkinter."""
@@ -207,20 +213,25 @@ class Application(tk.Frame):
 
     def get_gemini_suggestions(self, abstract, tags_df):
         config = configparser.ConfigParser()
-        config.read('config.ini')
         try:
-            gemini_api_key = config['gemini']['api_key']
-            if gemini_api_key == 'YOUR_GEMINI_API_KEY':
+            config.read('config.ini')
+            gemini_api_key = config.get('gemini', 'api_key')
+            if not gemini_api_key or gemini_api_key == 'YOUR_GEMINI_API_KEY':
                 messagebox.showwarning("API Key", "Please update 'config.ini' with your Google AI API key.")
                 return None
-        except (KeyError, FileNotFoundError):
-            messagebox.showerror("Error", "Gemini API key not found in 'config.ini'.")
+        except (configparser.NoSectionError, configparser.NoOptionError, FileNotFoundError):
+            messagebox.showerror("Error", "Gemini API key not found or 'config.ini' is missing/misconfigured.")
             return None
 
         client = genai.Client(api_key=gemini_api_key)
 
         tag_definitions = "\n".join([f"Tag: {row['Tag']}, Definition: {row['Definition']}" for index, row in tags_df.iterrows()])
-        prompt = f"Classify the following literature abstract by assigning relevant tags from the provided list.\n\nAbstract:\n{abstract}\n\nPossible Tags:\n{tag_definitions}"
+        prompt = (
+            "Classify the following literature abstract by assigning relevant tags from the provided list. "
+            "Your response must be a JSON object with a single key 'tags' which contains a list of tag strings.\n\n"
+            f"Abstract:\n{abstract}\n\n"
+            f"Possible Tags:\n{tag_definitions}"
+        )
 
         try:
             response = client.models.generate_content(
@@ -228,9 +239,12 @@ class Application(tk.Frame):
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
+                    response_schema=TagSuggestions,
                 )
             )
-            return json.loads(response.text).get('tags', [])
+            if response.parsed:
+                return response.parsed.tags
+            return []
         except Exception as e:
             messagebox.showerror("Gemini API Error", f"An error occurred: {e}")
             return None

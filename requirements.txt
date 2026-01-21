@@ -1,3 +1,4 @@
 pyzotero
 pandas
 google-genai
+pydantic
